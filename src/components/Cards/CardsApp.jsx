@@ -28,7 +28,7 @@ export const CardsApp = () => {
           <hr className="mt-3 border-none h-px bg-slate-900	" />
           <div className="flex mt-3 justify-between">
             <h3 className="text-base font-semibold text-white">Jhoan Narvaez</h3>
-            <i>08-marzo-2022</i>
+            <i className="text-white">08-marzo-2022</i>
           </div>
         </div>
 
@@ -51,7 +51,7 @@ export const CardsApp = () => {
           <hr className="mt-3 border-none h-px bg-slate-900	" />
           <div className="flex mt-3 justify-between">
             <h3 className="text-base font-semibold text-white">Jhoan Narvaez</h3>
-            <i>08-marzo-2022</i>
+            <i className="text-white">08-marzo-2022</i>
           </div>
         </div>
 
@@ -73,7 +73,7 @@ export const CardsApp = () => {
           <hr className="mt-3 border-none h-px bg-slate-900	" />
           <div className="mt-3 flex justify-between">
             <h3 className="text-base font-semibold text-white">Jhoan Narvaez</h3>
-            <i>08-marzo-2022</i>
+            <i className="text-white">08-marzo-2022</i>
           </div>
         </div>
       </div>
